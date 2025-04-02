@@ -1,3 +1,6 @@
+#include <stdlib.h>
+#include <stdint.h>
+#include <stdbool.h>
 #include "queue.h"
 #include "tile_game.h"
 
